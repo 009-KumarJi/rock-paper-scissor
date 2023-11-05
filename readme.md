@@ -1,0 +1,1 @@
+This is simple command line rock paper scissor game. I build this from scratch when I started learning JAVA as my first language.
